@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    margin-top: 20px;
+}
+
+li{
+    list-style: none;
+}
+
+.logo{
+    float: left;
+}
+
+.desction{
+    float: left;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+
+.tel{
+    float: right;
+}
+
+#nav{
+    height: 36px;
+    background:url("../images/bg3.jpg");
+    margin-top: 5px;
+}
+
+ul li{
+    float: left;
+    width: 130px;
+    height: 36px;
+    line-height: 36px;
+    color: white;
+    font-weight: bold;
+}
+
+ul #active{
+    margin-left: 140px;
+}
+
+.banner{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+#news{
+    margin-top: 30px;
+}
+
+.container .recommend{
+    color: #AA0C01;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#left{
+    width: 820px;
+    height: 352px;
+}
+
+.column{
+    float: left;
+    width: 255px;
+    height: 150px;
+    margin: 5px 10px 5px 0px;
+}
+
+.column_top{
+    background: url("../images/bg2.jpg");
+    height: 37px;
+    line-height: 37px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #737373;
+    text-align: center;
+}
+
+#right{
+    width: 270px;
+    height: 352px;
+    float: right;
+}
+
+#right .message{
+    width: 270px;
+    height: 144px;
+    float: left;
+}
